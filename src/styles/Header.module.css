@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.header_layout {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  height: 80px;
+  align-items: center;
+  padding-left: 25px;
+  justify-content: space-between;
+}
+
+.header_h1 {
+  margin: 0;
+  text-decoration: none;
+  color: black;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.book_link {
+  width: 50px;
+  height: 50px;
+  margin-right: 100px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 10px;
+  right: 70px;
+  color: red;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.numberOf {
+  color: white;
+  position: absolute;
+  top: -16px;
+  right: 5px;
+}

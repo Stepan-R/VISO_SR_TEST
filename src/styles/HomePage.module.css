@@ -1,0 +1,8 @@
+.home_layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: center;
+  position: relative;
+  margin-right: 24px;
+}

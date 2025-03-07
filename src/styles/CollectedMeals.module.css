@@ -1,0 +1,14 @@
+.layout {
+  display: flex;
+  flex-direction: row;
+  gap: 300px;
+  margin-top: 54px;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-left: 154px;
+  margin-bottom: 100px;
+}

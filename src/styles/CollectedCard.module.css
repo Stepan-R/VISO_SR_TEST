@@ -1,0 +1,38 @@
+.card_img {
+  width: 200px;
+  border-radius: 5px;
+  height: 200px;
+}
+
+.layout {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 500px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
+
+.bin {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  cursor: pointer;
+}

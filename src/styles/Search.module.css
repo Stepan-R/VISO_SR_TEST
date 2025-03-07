@@ -1,0 +1,12 @@
+.inpuT {
+  width: 700px;
+  height: 45px;
+  font-size: 18px;
+  padding-left: 16px;
+  border-radius: 5px;
+}
+
+.search_layout {
+  margin-top: 8px;
+  margin-left: 24px;
+}

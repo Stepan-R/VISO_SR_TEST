@@ -1,0 +1,15 @@
+.meal_img {
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.classes.meal_h2 {
+  text-align: center;
+}
+
+.link_st {
+  text-decoration: none;
+  color: black;
+}
